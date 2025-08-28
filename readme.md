@@ -28,5 +28,11 @@ Este proyecto permite ingresar nombres en una lista y realizar un sorteo para el
 
 ---
 
+## 👩‍💻 Autor
+**kefeeley**  
+
+📧 Correo: kefeeley@gmail.com  
+🌐 GitHub: [github.com/tu-usuario](https://github.com/kefeeley)  
+
 
 
