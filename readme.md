@@ -21,7 +21,7 @@ Este proyecto permite ingresar nombres en una lista y realizar un sorteo para el
 ![Pantalla principal](https://i.postimg.cc/cLnqL1VL/CAPTURA-JUEGO.png)
 
 ### Lista de amigos agregados
-![Lista de amigos](hhttps://i.postimg.cc/pdfgKGVN/DIGITE-NOMBRE.png)
+![Lista de amigos](https://i.postimg.cc/pdfgKGVN/DIGITE-NOMBRE.png)
 
 ### Resultado del sorteo
 ![Resultado del sorteo](https://i.postimg.cc/9f56R5ht/EL-AMIGO-SECRETO-ES.png)
