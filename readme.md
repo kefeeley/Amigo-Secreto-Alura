@@ -32,7 +32,7 @@ Este proyecto permite ingresar nombres en una lista y realizar un sorteo para el
 **kefeeley**  
 
 📧 Correo: kefeeley@gmail.com  
-🌐 GitHub: [github.com/tu-usuario](https://github.com/kefeeley)  
+🌐 GitHub: [github.com/kefeeley](https://github.com/kefeeley)  
 
 
 
